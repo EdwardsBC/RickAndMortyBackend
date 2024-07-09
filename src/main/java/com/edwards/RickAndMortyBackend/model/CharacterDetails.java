@@ -8,6 +8,4 @@ public class CharacterDetails {
         this.character = character;
         this.firstEpisodeName = firstEpisodeName;
     }
-
-    // Getters and Setters
 }

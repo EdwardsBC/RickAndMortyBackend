@@ -1,7 +1,5 @@
 package com.edwards.RickAndMortyBackend.model;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-
 public class Character {
     private int id;
     private String name;
@@ -15,8 +13,6 @@ public class Character {
     private String[] episode;
     private String url;
     private String created;
-
-    // Getters and Setters
 
     public int getId() {
         return id;

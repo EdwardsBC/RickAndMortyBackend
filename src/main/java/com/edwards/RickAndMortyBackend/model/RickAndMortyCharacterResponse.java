@@ -4,8 +4,6 @@ public class RickAndMortyCharacterResponse {
     private Info info;
     private Character[] results;
 
-    // Getters and Setters
-
     public Info getInfo() {
         return info;
     }

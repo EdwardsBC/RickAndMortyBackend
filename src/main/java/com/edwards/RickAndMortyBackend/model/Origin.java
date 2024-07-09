@@ -4,8 +4,6 @@ public class Origin {
     private String name;
     private String url;
 
-    // Getters and Setters
-
     public String getName() {
         return name;
     }

@@ -6,8 +6,6 @@ public class Info {
     private String next;
     private String prev;
 
-    // Getters and Setters
-
     public int getCount() {
         return count;
     }

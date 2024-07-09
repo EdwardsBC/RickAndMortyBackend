@@ -9,8 +9,6 @@ public class Location {
     private String url;
     private String created;
 
-    // Getters and Setters
-
     public int getId() {
         return id;
     }
